@@ -15,6 +15,6 @@ public class Application {
         Lab hello = new Lab();
         String output = hello.sayHello();
 
-        System.out.println(output);
+      System.out.println(output);
     }
 }
